@@ -1,0 +1,465 @@
+{
+  "S01": {
+    "Name": "PHANI CHARAN",
+    "Rollno": "22BD1A1201",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S02": {
+    "Name": "AADITYA KULKARNI",
+    "Rollno": "22BD1A1202",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S03": {
+    "Name": "AARYA PATEL",
+    "Rollno": "22BD1A1203",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S04": {
+    "Name": "AIMAN ZAREEN",
+    "Rollno": "22BD1A1204",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S05": {
+    "Name": "AITHA VARSHIKA",
+    "Rollno": "22BD1A1205",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S06": {
+    "Name": "ALLAGONDA CHARAN REDDY",
+    "Rollno": "22BD1A1206",
+    "Section": "IT",
+    "Gender": "Male",
+    "PasswordS": "Kmit123@"
+  },
+  "S07": {
+    "Name": "ANUMANDLA LAXMI PRANITHA",
+    "Rollno": "22BD1A1207",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S08": {
+    "Name": "BANDI ROHITH REDDY",
+    "Rollno": "22BD1A12008",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S09": {
+    "Name": "BANDI SUHANI PATEL",
+    "Rollno": "22BD1A1209",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S10": {
+    "Name": "BOOTLA MEGHANEEL SUDHAMSH",
+    "Rollno": "22BD1A1210",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S11": {
+    "Name": "BURANDODDI REDDIGARI SOHITH KUMAR REDDY",
+    "Rollno": "22BD1A1211",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S12": {
+    "Name": "CHILIVERY SRIPAD",
+    "Rollno": "22BD1A1212",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S13": {
+    "Name": "CHINTHAPALLY AJAY KUMAR",
+    "Rollno": "22BD1A1213",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S14": {
+    "Name": "CHUNDURU SATYA SAI RUTVIK",
+    "Rollno": "22BD1A1214",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S15": {
+    "Name": "D SIDDHARTH",
+    "Rollno": "22BD1A1215",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S16": {
+    "Name": "DEEPTHI VIJAY ACHARYA",
+    "Rollno": "22BD1A1216",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S17": {
+    "Name": "DRONA VENKATA SRIVANI",
+    "Rollno": "22BD1A1217",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S18": {
+    "Name": "ERRA UMESH CHANDRA",
+    "Rollno": "22BD1A1218",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S19": {
+    "Name": "G SHIVA SHANKAR REDDY",
+    "Rollno": "22BD1A1219",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S20": {
+    "Name": "GANJI TEJASWINI",
+    "Rollno": "22BD1A1220",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S21": {
+    "Name": "GARIGE HIMANI",
+    "Rollno": "22BD1A1221",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S22": {
+    "Name": "GAUTHAM KEDIA",
+    "Rollno": "22BD1A1222",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S23": {
+    "Name": "GEEREDDY JASHWANTH REDDY",
+    "Rollno": "22BD1A1223",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S24": {
+    "Name": "GUDABOINA SAI PRANEETH",
+    "Rollno": "22BD1A1224",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S25": {
+    "Name": "J JAHNAVI",
+    "Rollno": "22BD1A1225",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S26": {
+    "Name": "JULAKANTI LEENA SANJANA",
+    "Rollno": "22BD1A1226",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S27": {
+    "Name": "KADARI KOUSHIK REDDY",
+    "Rollno": "22BD1A1227",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Rakhi@321",
+    "Phno": "7671898733"
+  },
+  "S28": {
+    "Name": "KATRAPALLI SIDDHARTH",
+    "Rollno": "22BD1A1228",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S29": {
+    "Name": "KESHABOINA RAHUL",
+    "Rollno": "22BD1A1229",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S30": {
+    "Name": "KEVARLA RITHIKA",
+    "Rollno": "22BD1A1230",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S31": {
+    "Name": "KONCHADA JASMITH",
+    "Rollno": "22BD1A1231",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S32": {
+    "Name": "KOPPULA SURYA PRAKASH REDDY",
+    "Rollno": "22BD1A1232",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S33": {
+    "Name": "MADIRAJU VENKATA RADHA KRISHNA",
+    "Rollno": "22BD1A1233",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S34": {
+    "Name": "MANDAL AKSHITA",
+    "Rollno": "22BD1A1234",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S35": {
+    "Name": "MANDAVA VENKATA SAI SANTHOSH",
+    "Rollno": "22BD1A1235",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S36": {
+    "Name": "MANTRI YESHWANTH",
+    "Rollno": "22BD1A1236",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S37": {
+    "Name": "MATROJU SHRESTA",
+    "Rollno": "22BD1A1237",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S38": {
+    "Name": "MD ALTHAF",
+    "Rollno": "22BD1A1238",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S39": {
+    "Name": "MOHD MUSHRAF AHMED",
+    "Rollno": "22BD1A1239",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S40": {
+    "Name": "MUSTI LALITH SRINANDAN",
+    "Rollno": "22BD1A1240",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S41": {
+    "Name": "MUTNURI VIJAYA SASANK RAO",
+    "Rollno": "22BD1A1241",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S42": {
+    "Name": "NAGUBANDI PRANITHA",
+    "Rollno": "22BD1A1242",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S43": {
+    "Name": "NITISH NARVA",
+    "Rollno": "22BD1A1243",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S44": {
+    "Name": "NUKALA YASHASRI REDDY",
+    "Rollno": "22BD1A1244",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S45": {
+    "Name": "PEDDIREDDY SREENADH REDDY",
+    "Rollno": "22BD1A1245",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S46": {
+    "Name": "PRADYUMNA REDDY KANTHALA",
+    "Rollno": "22BD1A1246",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S47": {
+    "Name": "REPALA SAHAN",
+    "Rollno": "22BD1A1247",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S48": {
+    "Name": "RISHIKA SIRNAM",
+    "Rollno": "22BD1A1248",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S49": {
+    "Name": "SAGI SAI NIKHIL",
+    "Rollno": "22BD1A1249",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S50": {
+    "Name": "SAI SANTOSH YELLENKI",
+    "Rollno": "22BD1A1250",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S51": {
+    "Name": "SAKETH MOTHE",
+    "Rollno": "22BD1A1251",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S52": {
+    "Name": "SATYA AKSHAY TIRUMANI",
+    "Rollno": "22BD1A1252",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S53": {
+    "Name": "SESHA SAI PRATIEK YEGGINA",
+    "Rollno": "22BD1A1253",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S54": {
+    "Name": "SREE CHARAN REDDY MANNE",
+    "Rollno": "22BD1A1254",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S55": {
+    "Name": "SRIKAR NARSINGOJU",
+    "Rollno": "22BD1A1255",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S56": {
+    "Name": "SUDHEEP BHASKAR YADAV",
+    "Rollno": "22BD1A1256",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S57": {
+    "Name": "SURAPANENI YASHASWINI",
+    "Rollno": "22BD1A1257",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S58": {
+    "Name": "T HARINA SURI",
+    "Rollno": "22BD1A1258",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S59": {
+    "Name": "TANGALLAPALLY SRIKAR",
+    "Rollno": "22BD1A1259",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S60": {
+    "Name": "TELUKOTI VISHAL SAI",
+    "Rollno": "22BD1A1260",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S61": {
+    "Name": "TUNGA SURYA SIMHA REDDY",
+    "Rollno": "22BD1A1261",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S62": {
+    "Name": "U V N VARDHAN",
+    "Rollno": "22BD1A1262",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S63": {
+    "Name": "VARDAAN BHATIA",
+    "Rollno": "22BD1A1263",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S64": {
+    "Name": "VELUVALI SRIKAR",
+    "Rollno": "22BD1A1264",
+    "Section": "IT",
+    "Gender": "Male",
+    "Password": "Kmit123@"
+  },
+  "S65": {
+    "Name": "VOODA SRUTHI",
+    "Rollno": "22BD1A1265",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  },
+  "S66": {
+    "Name": "MEDISHETTY RITHIKA",
+    "Rollno": "22BD1A1266",
+    "Section": "IT",
+    "Gender": "Female",
+    "Password": "Kmit123@"
+  }
+}
